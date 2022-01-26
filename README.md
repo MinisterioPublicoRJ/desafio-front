@@ -3,7 +3,7 @@
    Seu desafio é construir uma pequena Wiki de Pokémon. Ela será alimentada com os dados da [PokeAPI](https://pokeapi.co/).
    O seu projeto precisa:
 1. Ser feito em React;
-2. Funcionar em dispositivos mobile. Bônus de for responsivo;
+2. Funcionar em dispositivos mobile. Bônus se for responsivo;
 3. Ter uma listagem de Pokémons, com cards que mostrem nome e foto de cada Pokémon. Você pode lidar com a paginação como preferir;
 4. Ter uma página de detalhe do Pokémon, com a lista de evoluções e links para os detalhes dessas evoluções. Essa página deve poder ser compartilhada pela URL.
 5. Uma listagem de berries com filtro por sabor.
